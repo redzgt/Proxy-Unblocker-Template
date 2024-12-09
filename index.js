@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 
-const nggUrl = 'https://snokido.com';
+const nggUrl = 'https://now.gg/apps/uncube/7074/now.html';
 
 const proxy = createProxyMiddleware({
   target: nggUrl,
