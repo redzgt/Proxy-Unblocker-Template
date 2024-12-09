@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 
-const nggUrl = 'https://bannana.web-doge.42web.io/';
+const nggUrl = 'https://example.com/';
 
 const proxy = createProxyMiddleware({
   target: nggUrl,
@@ -24,5 +24,5 @@ app.use('/', proxy);
 
 const port = process.env.PORT || 443;
 app.listen(port, () => {
-  console.log(`CybriaGG is running on port ${port}`);
+  console.log(`Currently running on port: ${port}`);
 });
