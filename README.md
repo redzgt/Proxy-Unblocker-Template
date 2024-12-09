@@ -1,16 +1,15 @@
 <p align="center">
 <kbd>
-<img width="150px" src="/public/cygg-logo-invert.png">
+<img width="150px" src="https://lh6.googleusercontent.com/QmrH0p7T1O9UjRWwxBTiF9bWqlXsIzL0pF5y_tdljiPxP25iXuWwsWJ56A-o0bu4OOICgLkdAxazGZhL7qEK7NA=w16383">
 </kbd>
 </p>
 
-## CybriaGG Proxy is an archive
+## Proxy Unblocker Template (by Universe)
 
-🎮 CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG
+This is a template to unblock any specific website. WOrks 99.99% percent of the time, except specific iframe games.
 
-> [!WARNING]
-> Do not deploy this to Netlify, Github Pages, Cloudflare Pages or any Static web hosting services, they don't support Node.js
-> It's best to use apps like Codesandbox, Replit, Render or others.
+> [Instructions]
+
 
 # Deploy
 
