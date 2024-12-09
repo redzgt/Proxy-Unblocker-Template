@@ -9,6 +9,9 @@
 This is a template to unblock any specific website. Works 99.99% percent of the time, except for specific iframe games.
 
 > [Instructions]
+> Deploy to the site of your choice (replit, vercel, or render) log in and all that.
+> Go back to github and go to whatever you named your repo and go to index.js and then click the pencil (edit)
+> Change the "https://example.com" to whatever the site you wish to unblock to. Then visit the url and enjoy!
 
 
 ## Deploy
