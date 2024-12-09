@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 
-const nggUrl = 'https://cryptoeaarn.exblog.jp/30549605/';
+const nggUrl = 'https://bannana.web-doge.42web.io/';
 
 const proxy = createProxyMiddleware({
   target: nggUrl,
