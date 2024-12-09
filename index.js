@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 
-const nggUrl = 'https://bonk.io';
+const nggUrl = 'https://com-tag-2-3-4-players.game-files.crazygames.com/index.html';
 
 const proxy = createProxyMiddleware({
   target: nggUrl,
